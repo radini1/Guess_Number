@@ -12,7 +12,7 @@ while flag:
             print(f'computer num = {r}'); print(f'your num = {n}')
             print('Spot on!')
         elif n > r:
-            print('try smaller')  
+            print('try lower')  
         else:
             print('try bigger')          
     else:
